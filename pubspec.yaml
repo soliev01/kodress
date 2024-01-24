@@ -1,6 +1,9 @@
 name: kodress
-description: Korean street address search.
+description: The kodress Dart package provides a user-friendly
+  UI component for seamlessly integrating Korean street address 
+  searching into your Dart and Flutter applications. 
 version: 0.1.0+1
+repository: https://github.com/soliev01/kodress
 
 
 environment:
