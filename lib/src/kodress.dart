@@ -35,7 +35,7 @@ class _KodressState extends State<Kodress> {
           );
         },
       )
-      ..loadRequest(Uri.parse('https://hoca-dev.github.io/daum-search'));
+      ..loadRequest(Uri.parse('https://soliev01.github.io/kodress-web'));
     super.initState();
   }
 
